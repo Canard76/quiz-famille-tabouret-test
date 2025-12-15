@@ -20,3 +20,9 @@ Ce paquet contient un quiz en JSON et une page HTML pour jouer en famille (paren
 5. Ouvrez l'URL GitHub Pages : la page `index.html` chargera automatiquement `quiz.json`.
 
 Bon jeu !
+
+🧩 Personnaliser (facultatif)
+
+Questions : éditez quiz.json (champ questions).
+Timer : modifiez quiz.timer (global) ou chaque question.timer.
+Couleur/alerte : style .timer.warn dans le CSS de index.html.
