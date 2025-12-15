@@ -4,15 +4,15 @@
   "giftTiers": [
     {
       "minScore": 0,
-      "label": "Niveau Bronze"
+      "label": "Niveau Bronze, tu n'aura pas de cadeaux, mais un bisous !"
     },
     {
       "minScore": 200,
-      "label": "Niveau Argent"
+      "label": "Niveau Argent, tu mérite une petite claque aux fesses avec un bisous !"
     },
     {
       "minScore": 320,
-      "label": "Niveau Or"
+      "label": "Niveau Or, tu à le droit à un gros cadeaux !"
     }
   ],
   "pointsPerQuestionDefault": 10,
